@@ -20,11 +20,11 @@ clubNameFontColor: '#ffaa00'
 
 #The font for welcome message
 welcomeMessageFont: Arial, Helvetica, sans-serif
-welcomeMessageFontColor: black
+welcomeMessageFontColor: white
 
 #The font for the name of pages and links
 pageNameFont: Arial, Helvetica, sans-serif
-pageNameFontColor: black
+pageNameFontColor: white
 
 #The font of the heading "About us"
 aboutUsHeadingFont: Arial, Helvetica, sans-serif

@@ -6,17 +6,17 @@ layout: indexLayout
 welcomeMsg: Welcome Member!
 
 #The background of the front page
-indexBG: /assets/img/bg/indexMainBg.jpeg
+indexBG: /assets/img/bg/code-1.jpg
 
 #The background of the about us section
-aboutUsBg: /assets/img/bg/aboutUsBg.png
+aboutUsBg: /assets/img/bg/color-gold.JPG
 
 #Short description of the club
-aboutUs: Our club is a club. It does things. Lots of things. 
+aboutUs: We are Turing Club. We do a lot of work.
 
 #The font for club name and institute name
-clubNameFont: Arial, Helvetica, sans-serif
-clubNameFontColor: black
+clubNameFont: "url( '/assets/fonts/yellowtail/Yellowtail/Yellowtail-Regular.ttf')"
+clubNameFontColor: '#ffaa00'
 
 #The font for welcome message
 welcomeMessageFont: Arial, Helvetica, sans-serif

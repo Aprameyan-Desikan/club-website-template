@@ -2,7 +2,7 @@
 layout: homeLayout
 
 #The font for everything else except the header, footer and the heading 'Highlights'
-font: Arial, Helvetica, sans-serif
+font: /assets/fonts/yellowtail/Yellowtail/Yellowtail-Regular.ttf
 fontColor: black
 
 #The font of the heading 'Highlights'
@@ -24,7 +24,7 @@ highlightsBackgroundColor:
 
 #The background for the club description message on this page. If you don't want color and are going to use image, leave the color
 #empty.
-descBackgroundImage: /assets/img/bg/indexMainBg.jpeg
+descBackgroundImage: /assets/img/bg/code-1.jpg
 descBackgroundColor:
 
 #The font of the description which you have written in this file.
@@ -33,4 +33,4 @@ descFontColor: black
 descFontSize: 2em
 ---
 # The Club
-Here goes your welcome message
+Welcome to the Club!

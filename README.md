@@ -14,7 +14,7 @@ Click on ```Use this template button``` on the page of this repository. You will
 
 **Here comes the tricky part**
 
-You must comment the variable ```baseurl``` in your ```_config.yml``` file before testing this locally. To test locally, cd to the directory and run ```bundle exec jekyll serve```. To make more changes, see the usage section. 
+You must comment the variable ```baseurl``` in your ```_config.yml``` file before testing this locally. To test locally, cd to the directory and run ```bundle exec jekyll serve```. If this shows error, use ```bundle add webrick``` first and then run ```bundle exec jekyll serve``` To make more changes, see the usage section. 
 
 ## Usage
 

@@ -1,5 +1,5 @@
 #Put the name of the repo as it is on github. Comment this variable when you are testing locally. Uncomment before pushing to github.
-#baseurl: /club-website-template
+baseurl: /club-website-template
 
 #The title appears on the first page
 title: The Club
@@ -11,7 +11,7 @@ instituteName: IISER-M
 logo: /assets/img/logo.png 
 
 #The font for everything in the header
-headerFont:
+headerFont: 
 
 #The fontcolor of everything in the header
 headerFontColor: white
